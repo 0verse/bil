@@ -43,18 +43,14 @@ gösterge
 
     bool şimdi :: 1
     süre şimdi
-    {
         eğer b2 = "dünya"
-        {
             yazma ("dünyadır")
             bitir
-        }
         veya b2 = "yeni dünya"
-        {
             yazma ("yeni dünyadır")
             bitir
-        }
-    }
+        durum
+    durum
 öniş
 
 ```
