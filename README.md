@@ -49,8 +49,8 @@ gösterge
         veya b2 = "yeni dünya"
             yazma ("yeni dünyadır")
             bitir
-        akım
-    akım
+        akış
+    akış
 öniş
 
 ```
