@@ -19,8 +19,8 @@ sıra
 
 kopyalama (öz , kopya) ; dönme kopya : öz ; ekiş
 
-artırma (a, b)
-    a + b
+artırma (a : tüm32, b : tüm32)
+    dönme a + b
 ekiş
 
 gösterge
