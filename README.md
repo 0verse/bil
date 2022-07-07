@@ -17,7 +17,7 @@ yönler
     güney
 sıra
 
-kopyalama (öz ,kopya) ; dönme kopya : öz ; ekiş
+kopyalama (öz , kopya) ; dönme kopya : öz ; ekiş
 
 artırma (a, b)
     a + b
