@@ -6,8 +6,8 @@ temel
 önek
 
 kişi
-    yaş : sayı
-    ad  : dizi
+    yaş sayı
+    ad  dizi
 yapı
 
 yönler
@@ -19,27 +19,27 @@ sıra
 
 kopyalama (öz , kopya) ; dönme kopya : öz ; ekiş
 
-artırma (a : tüm32, b : tüm32)
+artırma (a tüm32 , b tüm32) tüm32
     dönme a + b
 ekiş
 
 gösterge
     a1  :: 123 // değişmeyen
-    a2  : 321 // değişen
-    c1  : 1
-    c2  : tamsayı 6000000000000
-    c   :: kopyalama (a1 , c1)
-    b1  : "merhaba"
-    b2  : dizi "dünya"
+    a2  :  321 // değişen
+    c1         : 1
+    c2 tamsayı : 6000000000000
+    c :: kopyalama (a1 , c1)
+    b1      : "merhaba"
+    b2 dizi : "dünya"
     yazma (b1 , b2)
-    b2  : "yeni dünya"
+    b2      : "yeni dünya"
     yazma (b1 , b2)
     yazma (a2 , b2)
     yazma (artırma (2 , 4))
 
     demet : (1 , "at" , 1.5)
     dizin : [1 , 2 , 3 , 4 , 5]
-    lügat : {"balık" : 1 , "aslan" : 2}
+    lügat : {"balık" 1 , "aslan" 2}
 
     şimdi :: doğru
     süre şimdi
@@ -52,5 +52,4 @@ gösterge
         akış
     akış
 öniş
-
 ```
