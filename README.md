@@ -23,7 +23,7 @@ artırma (a tüm32 , b tüm32) tüm32
     dönme a + b
 iş
 
-gösterge
+gösterge ()
     a1  :: 123 // değişmeyen
     a2  :  321 // değişen
     c1         : 1
