@@ -8,14 +8,14 @@ ek
 kişi
     yaş sayı
     ad  dizi
-yapı
+ol
 
 yönler
     doğu
     batı
     kuzey
     güney
-sıra
+en
 
 kopyalama (öz , kopya) ; dönme kopya : öz ; iş
 
