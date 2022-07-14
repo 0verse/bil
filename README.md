@@ -3,7 +3,7 @@
 ```
 temel
     yazma
-önek
+ek
 
 kişi
     yaş sayı
@@ -17,11 +17,11 @@ yönler
     güney
 sıra
 
-kopyalama (öz , kopya) ; dönme kopya : öz ; ekiş
+kopyalama (öz , kopya) ; dönme kopya : öz ; iş
 
 artırma (a tüm32 , b tüm32) tüm32
     dönme a + b
-ekiş
+iş
 
 gösterge
     a1  :: 123 // değişmeyen
@@ -49,7 +49,7 @@ gösterge
         veya b2 = "yeni dünya"
             yazma ("yeni dünyadır")
             bitir
-        akış
-    akış
-öniş
+        an
+    an
+ön
 ```
