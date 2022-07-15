@@ -41,15 +41,25 @@ gösterge ()
     dizin : [1 , 2 , 3 , 4 , 5]
     lügat : {"balık" 1 , "aslan" 2}
 
+    demet
+        1    => yazma ("sayı")
+        "at" => yazma ("dizi")
+        1.5  => yazma ("kayı")
+    eş
+
     şimdi :: doğru
-    süre şimdi
-        eğer b2 = "dünya"
+    şimdi
+        b2 = "dünya"
             yazma ("dünyadır")
             bitir
-        veya b2 = "yeni dünya"
+        ya
+        b2 = "yeni dünya"
             yazma ("yeni dünyadır")
             bitir
-        an
+        ya
+            yazma ("başkadır")
+            bitir
+        da
     an
 ön
 ```
