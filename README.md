@@ -8,7 +8,7 @@ ek
 ön  kişi
     yaş sayı
     ad  dizi
-ol
+el
 
 ön  yönler
     doğu
@@ -61,7 +61,7 @@ iş
         ön
             yazma ("başkadır")
             bitir
-        da
+        ya
     an
 uç
 ```
