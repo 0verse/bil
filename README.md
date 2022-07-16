@@ -1,29 +1,29 @@
 # bil programlama dili
 
 ```
-temel
+ön  temel
     yazma
 ek
 
-kişi
+ön  kişi
     yaş sayı
     ad  dizi
 ol
 
-yönler
+ön  yönler
     doğu
     batı
     kuzey
     güney
 en
 
-kopyalama (öz , kopya) ; dönme kopya : öz ; iş
+ön kopyalama (öz , kopya) ; dönme kopya : öz ; iş
 
-artırma (a tüm32 , b tüm32) tüm32
+ön  artırma (a tüm32 , b tüm32) tüm32
     dönme a + b
 iş
 
-gösterge ()
+ön  gösterge ()
     a1  :: 123 // değişmeyen
     a2  :  321 // değişen
     c1         : 1
@@ -41,25 +41,27 @@ gösterge ()
     dizin : [1 , 2 , 3 , 4 , 5]
     lügat : {"balık" 1 , "aslan" 2}
 
-    demet
+    ön  demet
         1    => yazma ("sayı")
         "at" => yazma ("dizi")
         1.5  => yazma ("kayı")
     eş
 
     şimdi :: doğru
-    şimdi
-        b2 = "dünya"
+
+    ön  şimdi
+        ön  b2 = "dünya"
             yazma ("dünyadır")
             bitir
         ya
-        b2 = "yeni dünya"
+        ön  b2 = "yeni dünya"
             yazma ("yeni dünyadır")
             bitir
         ya
+        ön
             yazma ("başkadır")
             bitir
         da
     an
-ön
+uç
 ```
